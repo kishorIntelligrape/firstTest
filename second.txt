@@ -2,5 +2,8 @@ This is second file.
 <<<<<<< HEAD
 second line for second file
 third line to second file
+<<<<<<< HEAD
 =======
 >>>>>>> parent of ce41d86... Adding second line to second file
+=======
+>>>>>>> d9c91d43cbe3604ef520f45c509217d3e3110b1e
